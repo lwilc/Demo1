@@ -1,2 +1,2 @@
 Here's my first entry to this file 
-Here's a change to the file. 
+This is bound to cause trouble.  
